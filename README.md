@@ -11,7 +11,7 @@ Please Note: This will also disable App Store Auto Update (You can still update 
 如果要重新接收系統更新，那麼只要移除這個描述檔並重新啟動即可。<br>
 注意：這也將停用App Store App的自動更新（使用者仍然可以手動更新）<br>
 <br>
-<a href="https://github.com/iambjlu/NoMoreMacOSUpdate/raw/main/NoMoreMacOSUpdate/NoMoreMacOSUpdate.zip"><pre>下載 Download</pre></a><br>
+<h2><a href="https://github.com/iambjlu/NoMoreMacOSUpdate/raw/main/NoMoreMacOSUpdate/NoMoreMacOSUpdate.zip"><pre>下載 Download</pre></a></h2><br>
 
 # Screenshots 螢幕快照
 ## Before<br>
