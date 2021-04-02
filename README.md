@@ -12,7 +12,7 @@ Please Note: This will also disable App Store Auto Update (You can still update 
 注意：這也將停用App Store App的自動更新（使用者仍然可以手動更新）<br>
 <br>
 <a href=""><pre>下載 Download</pre></a><br>
-<br>
+
 # Screenshots 螢幕快照
 Before<br>
 <img src=""></img><br>
