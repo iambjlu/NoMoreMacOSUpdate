@@ -15,8 +15,8 @@ Please Note: This will also disable App Store Auto Update (You can still update 
 
 # Screenshots 螢幕快照
 Before<br>
-<img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/Before_en_v1.png?raw=true"></img><br>
-<img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/Before_zh_v1.png?raw=true"></img><br>
+<img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/Before_en_v1.png?raw=true" width="50%" height="50%"></img><br>
+<img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/Before_zh_v1.png?raw=true" width="50%" height="50%"></img><br>
 After<br>
-<img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/After_en_v1.png?raw=true"></img><br>
-<img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/After_zh_v1.png?raw=true"></img><br>
+<img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/After_en_v1.png?raw=true" width="50%" height="50%></img><br>
+<img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/After_zh_v1.png?raw=true" width="50%" height="50%></img><br>
