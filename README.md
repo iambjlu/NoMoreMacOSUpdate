@@ -14,9 +14,9 @@ Please Note: This will also disable App Store Auto Update (You can still update 
 <a href="https://github.com/iambjlu/NoMoreMacOSUpdate/raw/main/NoMoreMacOSUpdate/NoMoreMacOSUpdate.zip"><pre>下載 Download</pre></a><br>
 
 # Screenshots 螢幕快照
-Before<br>
+##Before<br>
 <img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/Before_en_v1.png?raw=true" width="50%" height="50%"></img><br>
 <img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/Before_zh_v1.png?raw=true" width="50%" height="50%"></img><br>
-After<br>
-<img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/After_en_v1.png?raw=true" width="50%" height="50%></img><br>
-<img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/After_zh_v1.png?raw=true" width="50%" height="50%></img><br>
+##After<br>
+<img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/After_en_v1.png?raw=true" width="50%" height="50%"></img><br>
+<img src="https://github.com/iambjlu/NoMoreMacOSUpdate/blob/main/ReadmeResources/After_zh_v1.png?raw=true" width="50%" height="50%"></img><br>
