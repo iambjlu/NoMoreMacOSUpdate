@@ -1,5 +1,5 @@
-# NoMoreMacOSUpdate
-跟macOS更新說再見！
+# NoMoreMacOSUpdate  跟macOS更新說再見！
+
 
 This will redirect your macOS Update Server into 0.0.0.0, and it won't find any macOS Update anymore after you install this and reboot.
 This is quite useful for those who don't want to update their system on purpose.
