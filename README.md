@@ -13,7 +13,7 @@ Please Note: This will also disable App Store Auto Update (You can still update 
 測試版本： macOS 10.15.5 "Catalina"阻擋macOS 11.2.3 "Big Sur"<br>
 注意：這也將停用App Store App的自動更新（使用者仍然可以手動更新）<br>
 <br>
-<h2><a href="https://github.com/iambjlu/NoMoreMacOSUpdate/raw/main/NoMoreMacOSUpdate/NoMoreMacOSUpdate.zip"><pre>下載 Download</pre></a></h2>
+<h2><a href="https://github.com/iambjlu/NoMoreMacOSUpdate/raw/main/NoMoreMacOSUpdate/NoMoreMacOSUpdate_1100407.zip"><pre>下載 Download</pre></a></h2>
 <br>
 
 # Screenshots 螢幕快照
