@@ -3,6 +3,7 @@ This will redirect your macOS Update Server into 0.0.0.0, and it won't find any 
 This is quite useful for those who don't want to update their system on purpose.<br>
 To resume receiving macOS Updates, just simply remove this mobileconfig and reboot.<br>
 Tested on macOS 10.15.5 "Catalina" blocking 11.2.3 "Big Sur"<br>
+<br>
 Please Note: <br>
 * This will also disable App Store Auto Update (You can still update App Store Apps manually)<br>
 * This will also block Boot Camp Assistant from download "WindowsSupport"(driver) Files, so please install this after downloading "WindowsSupport" (or remove this for a while)
@@ -13,6 +14,7 @@ Please Note: <br>
 這對於某些不想升級的使用者非常有用（不用再三不五時看到更新通知以及紅色點點）。<br>
 如果要重新接收系統更新，那麼只要移除這個描述檔並重新啟動即可。<br>
 測試版本： macOS 10.15.5 "Catalina"阻擋macOS 11.2.3 "Big Sur"<br>
+<br>
 注意：<br>
 * 這也將停用App Store App的自動更新（使用者仍然可以手動更新）<br>
 * 這會阻擋啟動切換輔助程式下載「Windows支援軟體」(驅動程式)，所以請先裝完啟動切換（或下載時暫時移除這個描述檔)<br>
