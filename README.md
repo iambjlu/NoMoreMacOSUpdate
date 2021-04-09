@@ -6,7 +6,7 @@ Tested on macOS 10.15.5 "Catalina" blocking 11.2.3 "Big Sur"<br>
 <br>
 Please Note: <br>
 * This will also disable App Store Auto Update (You can still update App Store Apps manually)<br>
-* This will also block Boot Camp Assistant from download "WindowsSupport"(driver) Files, so please install this after downloading "WindowsSupport" (or remove this for a while)
+* This will also block Boot Camp Assistant from download "WindowsSupport"(driver) files, so if you need it, please download "WindowsSupport" before install this (or you can remove this for a while and reinstall this after "WindowsSupport" download complete)
 <br>
 
 #  跟macOS更新說再見！
@@ -17,7 +17,7 @@ Please Note: <br>
 <br>
 注意：<br>
 * 這也將停用App Store App的自動更新（使用者仍然可以手動更新）<br>
-* 這會阻擋啟動切換輔助程式下載「Windows支援軟體」(驅動程式)，所以請先裝完啟動切換（或下載時暫時移除這個描述檔)<br>
+* 這會阻擋啟動切換輔助程式下載「Windows支援軟體」(驅動程式)，所以如果需要的話請先裝完啟動切換再使用此描述檔（或下載時暫時移除這個描述檔)<br>
 <br>
 <h2><a href="https://github.com/iambjlu/NoMoreMacOSUpdate/raw/main/NoMoreMacOSUpdate/NoMoreMacOSUpdate_1100407.zip"><pre>下載 Download</pre></a></h2>
 <br>
